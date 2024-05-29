@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7L5AU6T9Z4.com.touch.NFCTest",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
