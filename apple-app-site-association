@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "UV2GUVA7S2.com.touch.NFCTest",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
