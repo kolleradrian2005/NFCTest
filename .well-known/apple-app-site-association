@@ -5,7 +5,7 @@
       {
         "appID": "UV2GUVA7S2.com.touch-contacts.app",
         "paths": [
-          "*"
+          "/sharing/*"
         ]
       }
     ]
